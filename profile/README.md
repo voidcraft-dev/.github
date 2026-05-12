@@ -10,8 +10,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="../assets/voidcraft-grid-dark.svg" />
-    <img src="../assets/voidcraft-grid.svg" alt="VoidCraft grid" width="920" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/voidcraft-dev/.github/main/assets/voidcraft-grid-dark.svg" />
+    <img src="https://raw.githubusercontent.com/voidcraft-dev/.github/main/assets/voidcraft-grid.svg" alt="VoidCraft grid" width="920" />
   </picture>
 </p>
 
@@ -26,7 +26,7 @@
 </p>
 
 <p align="center">
-  <img src="../assets/voidcraft-hero.png" alt="VoidCraft hero — a boy crafting on the moon" width="920" />
+  <img src="https://raw.githubusercontent.com/voidcraft-dev/.github/main/assets/voidcraft-hero.png" alt="VoidCraft hero — a boy crafting on the moon" width="920" />
 </p>
 
 <p align="center">
@@ -40,10 +40,10 @@
 </p>
 
 <p align="center">
-  <a href="https://voidcraft-app-site.pages.dev/" target="_blank" rel="noreferrer noopener"><img src="../assets/pill-voidcraft.svg" alt="VoidCraft Official" height="32" /></a>　
-  <a href="https://voidcraft-app-site.pages.dev/" target="_blank" rel="noreferrer noopener"><img src="../assets/pill-novelcraft.svg" alt="NovelCraft" height="32" /></a>　
-  <a href="https://voidcraft-app-site.pages.dev/" target="_blank" rel="noreferrer noopener"><img src="../assets/pill-beatcraft.svg" alt="BeatCraft" height="32" /></a>　
-  <a href="https://voidcraft-app-site.pages.dev/" target="_blank" rel="noreferrer noopener"><img src="../assets/pill-canvascraft.svg" alt="CanvasCraft" height="32" /></a>
+  <a href="https://voidcraft-app-site.pages.dev/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/voidcraft-dev/.github/main/assets/pill-voidcraft.svg" alt="VoidCraft Official" height="32" /></a>　
+  <a href="https://voidcraft-app-site.pages.dev/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/voidcraft-dev/.github/main/assets/pill-novelcraft.svg" alt="NovelCraft" height="32" /></a>　
+  <a href="https://voidcraft-app-site.pages.dev/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/voidcraft-dev/.github/main/assets/pill-beatcraft.svg" alt="BeatCraft" height="32" /></a>　
+  <a href="https://voidcraft-app-site.pages.dev/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/voidcraft-dev/.github/main/assets/pill-canvascraft.svg" alt="CanvasCraft" height="32" /></a>
 </p>
 
 ---
@@ -51,8 +51,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="../assets/voidcraft-sigil-dark.svg" />
-  <img src="../assets/voidcraft-sigil.svg" alt="VoidCraft sigil" width="220" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/voidcraft-dev/.github/main/assets/voidcraft-sigil-dark.svg" />
+  <img src="https://raw.githubusercontent.com/voidcraft-dev/.github/main/assets/voidcraft-sigil.svg" alt="VoidCraft sigil" width="220" />
 </picture>
 <br>
 
