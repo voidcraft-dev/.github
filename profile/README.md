@@ -1,43 +1,65 @@
-# VoidCraft Studio 💜
+<div align="center">
 
-> 独立 AI 产品工作室 · 一个人造一个世界 · A solo dev crafting an AI universe
+# VoidCraft 💜
 
----
+<sub>一人 AI 工作室 · A solo studio crafting an AI universe</sub>
 
-## 🎯 当前产品矩阵 / Product Matrix
-
-### 📚 [NovelCraft · 讲个故事](https://novelcraft.voidcraft-dev.com)
-AI 小说生成器 — 一句话生成专属网文,激活码解锁 Premium。
-
-### 🎵 [TuneCraft · 音乐工坊](https://tunecraft.voidcraft-dev.com)
-AI 原创歌曲 — ¥9.9 买断单首版权,100% 商用授权,中国法律认可。
-*(即将上线 / Coming soon)*
-
-### 🎼 [BeatCraft 国际版](https://beatcraft.voidcraft-dev.com)
-English AI music generator with Gumroad checkout.
-
-### 💝 CupidCraft · 月老 AI
-婚介工作室 Tauri 桌面工具,本地化 AI 配对。
-*(开发中 / Building)*
-
-### 🎨 CanvasCraft · 多终端画布
-[Gumroad](https://revkster.gumroad.com/l/termcanvas)
+</div>
 
 ---
 
-## 💜 支持我持续造 / Support Me
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="../assets/voidcraft-grid-dark.svg" />
+    <img src="../assets/voidcraft-grid.svg" alt="VoidCraft grid" width="920" />
+  </picture>
+</p>
 
-- 🇨🇳 **国内打赏 / 激活码**: [ifdian.net/a/voidcraft](https://ifdian.net/a/voidcraft)
-- 🌍 **International**: [revkster.gumroad.com](https://revkster.gumroad.com/)
+<br>
+
+<p align="center">
+  ❝　把灵感做成能用的东西，再把它做得顺眼一点。　❞
+</p>
+
+<p align="center">
+  <sub>·&emsp;✧&emsp;·&emsp;✦&emsp;·&emsp;✧&emsp;·</sub>
+</p>
+
+<p align="center">
+  <img src="../assets/voidcraft-hero.png" alt="VoidCraft hero — a boy crafting on the moon" width="920" />
+</p>
+
+<p align="center">
+  <sub>·&emsp;✧&emsp;·&emsp;✦&emsp;·&emsp;✧&emsp;·</sub>
+</p>
+
+<br>
+
+<p align="center">
+  <sub>·　·　·　CURRENTLY CRAFTING　·　·　·</sub>
+</p>
+
+<p align="center">
+  <a href="https://voidcraft-app-site.pages.dev/" target="_blank" rel="noreferrer noopener"><img src="../assets/pill-voidcraft.svg" alt="VoidCraft Official" height="32" /></a>　
+  <a href="https://voidcraft-app-site.pages.dev/" target="_blank" rel="noreferrer noopener"><img src="../assets/pill-novelcraft.svg" alt="NovelCraft" height="32" /></a>　
+  <a href="https://voidcraft-app-site.pages.dev/" target="_blank" rel="noreferrer noopener"><img src="../assets/pill-beatcraft.svg" alt="BeatCraft" height="32" /></a>　
+  <a href="https://voidcraft-app-site.pages.dev/" target="_blank" rel="noreferrer noopener"><img src="../assets/pill-canvascraft.svg" alt="CanvasCraft" height="32" /></a>
+</p>
 
 ---
 
-## 🛠 技术栈 / Stack
+<div align="center">
 
-`Next.js 16` · `React 19` · `Tauri 2` · `Rust` · `TypeScript` · `Tailwind v4`
-`Cloudflare Workers` · `Supabase` · `OpenNext`
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="../assets/voidcraft-sigil-dark.svg" />
+  <img src="../assets/voidcraft-sigil.svg" alt="VoidCraft sigil" width="220" />
+</picture>
+<br>
 
----
+**VoidCraft = 虚空匠造**  
+一个独立开发者从虚空中慢慢造出整个世界 ✨
 
-> **VoidCraft = 虚空匠造**
-> 一个独立开发者从虚空中造出整个世界 ✨
+<br>
+<sub><a href="https://ifdian.net/a/voidcraft" target="_blank" rel="noreferrer noopener">爱发电</a>　·　<a href="https://revkster.gumroad.com" target="_blank" rel="noreferrer noopener">Gumroad</a></sub>
+
+</div>
