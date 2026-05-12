@@ -10,8 +10,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/voidcraft-dev/.github/main/assets/voidcraft-grid-dark.svg" />
-    <img src="https://raw.githubusercontent.com/voidcraft-dev/.github/main/assets/voidcraft-grid.svg" alt="VoidCraft grid" width="920" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/voidcraft-dev/.github/output/github-contribution-grid-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/voidcraft-dev/.github/output/github-contribution-grid-snake.svg" alt="github-contribution-snake" />
   </picture>
 </p>
 
